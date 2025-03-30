@@ -1,5 +1,5 @@
 {
-  "name": "langgraph-official-customer-support-chatbot",
+  "name": "customer-support-chatbot",
   "version": "0.1.0",
   "private": true,
   "scripts": {

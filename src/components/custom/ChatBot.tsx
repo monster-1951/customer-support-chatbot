@@ -144,7 +144,7 @@ export default function Chatbot({
         <div className="flex-1 overflow-y-auto p-4 scrollbar-hidden">
           {messages.length === 0 ? (
             <div className="text-xl font-extrabold text-center mb-6 bg-gradient-to-br from-[#4299E1] to-[#90CDF4] text-transparent bg-clip-text">
-              <p>Welcome to LangCorp AI Support.</p>
+              <p>Welcome to LangCorp Customer Support.</p>
               <p>How can we assist you today?</p>
             </div>
           ) : (
